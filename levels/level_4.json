@@ -10,10 +10,10 @@
     { "col": 13, "row": 8, "type": "basic" },
     { "col": 6, "row": 8, "type": "basic" },
     { "col": 7, "row": 8, "type": "basic" },
-    { "col": 8, "row": 8, "type": "basic" },
-    { "col": 9, "row": 8, "type": "basic" },
+    { "col": 8, "row": 6, "type": "basic" },
+    { "col": 9, "row": 7, "type": "basic" },
     { "col": 10, "row": 8, "type": "basic" },
-    { "col": 11, "row": 8, "type": "basic" }
+    { "col": 11, "row": 9, "type": "basic" }
   ],
   "ball": {
     "speed": 250,

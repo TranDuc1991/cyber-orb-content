@@ -10,7 +10,7 @@
     { "col": 9, "row": 8, "type": "basic" }
   ],
   "ball": {
-    "speed": 250,
+    "speed": 500,
     "startCol": 6,
     "startRow": 14
   }

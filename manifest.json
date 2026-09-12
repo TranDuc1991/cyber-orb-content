@@ -1,9 +1,10 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "levels": [
     "https://USERNAME.github.io/cyber-orb-content/levels/level_1.json",
     "https://USERNAME.github.io/cyber-orb-content/levels/level_2.json",
     "https://USERNAME.github.io/cyber-orb-content/levels/level_3.json",
-    "https://USERNAME.github.io/cyber-orb-content/levels/level_4.json"
+    "https://USERNAME.github.io/cyber-orb-content/levels/level_4.json",
+    "https://USERNAME.github.io/cyber-orb-content/levels/level_5.json"
   ]
 }

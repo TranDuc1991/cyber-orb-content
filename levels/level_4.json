@@ -16,7 +16,7 @@
     { "col": 11, "row": 9, "type": "basic" }
   ],
   "ball": {
-    "speed": 250,
+    "speed": 500,
     "startCol": 6,
     "startRow": 14
   }

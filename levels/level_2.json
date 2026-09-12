@@ -1,0 +1,15 @@
+{
+  "name": "Grid Lock",
+  "nodes": [
+    { "col": 2, "row": 2, "type": "basic" },
+    { "col": 5, "row": 2, "type": "basic" },
+    { "col": 9, "row": 2, "type": "basic" },
+    { "col": 3, "row": 5, "type": "basic" },
+    { "col": 8, "row": 5, "type": "basic" }
+  ],
+  "ball": {
+    "speed": 220,
+    "startCol": 6,
+    "startRow": 14
+  }
+}

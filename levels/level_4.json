@@ -1,14 +1,19 @@
 {
-  "name": "Orbital Storm",
+  "name": "Neon Maze",
   "nodes": [
-    { "col": 1, "row": 2, "type": "basic" },
-    { "col": 2, "row": 1, "type": "basic" },
-    { "col": 3, "row": 2, "type": "basic" },
-    { "col": 4, "row": 5, "type": "basic" }
+    { "col": 1, "row": 1, "type": "basic" },
+    { "col": 9, "row": 1, "type": "basic" },
+    { "col": 1, "row": 9, "type": "basic" },
+    { "col": 9, "row": 9, "type": "basic" },
+    { "col": 5, "row": 5, "type": "tough" },
+    { "col": 3, "row": 3, "type": "basic" },
+    { "col": 7, "row": 3, "type": "basic" },
+    { "col": 3, "row": 7, "type": "basic" },
+    { "col": 7, "row": 7, "type": "basic" }
   ],
   "ball": {
-    "speed": 500,
-    "startCol": 6,
+    "speed": 550,
+    "startCol": 5,
     "startRow": 14
   }
 }

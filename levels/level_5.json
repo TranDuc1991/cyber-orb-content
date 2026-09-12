@@ -1,15 +1,21 @@
 {
-  "name": "Orbital Storm 2",
+  "name": "Cyber Core",
   "nodes": [
-    { "col": 1, "row": 2, "type": "basic" },
-    { "col": 2, "row": 1, "type": "basic" },
-    { "col": 3, "row": 2, "type": "basic" },
-    { "col": 4, "row": 5, "type": "basic" },
-    { "col": 9, "row": 10, "type": "basic" }
+    { "col": 5, "row": 1, "type": "tough" },
+    { "col": 2, "row": 3, "type": "basic" },
+    { "col": 8, "row": 3, "type": "basic" },
+    { "col": 5, "row": 5, "type": "powerup" },
+    { "col": 2, "row": 7, "type": "basic" },
+    { "col": 8, "row": 7, "type": "basic" },
+    { "col": 5, "row": 9, "type": "tough" },
+    { "col": 1, "row": 1, "type": "basic" },
+    { "col": 9, "row": 1, "type": "basic" },
+    { "col": 1, "row": 9, "type": "basic" },
+    { "col": 9, "row": 9, "type": "basic" }
   ],
   "ball": {
-    "speed": 500,
-    "startCol": 6,
+    "speed": 600,
+    "startCol": 5,
     "startRow": 14
   }
 }

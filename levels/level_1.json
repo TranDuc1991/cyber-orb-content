@@ -1,11 +1,13 @@
 {
   "name": "First Contact",
   "nodes": [
-    { "col": 3, "row": 3, "type": "basic" }
+    { "col": 3, "row": 3, "type": "basic" },
+    { "col": 7, "row": 3, "type": "basic" },
+    { "col": 5, "row": 5, "type": "basic" }
   ],
   "ball": {
-    "speed": 500,
-    "startCol": 6,
+    "speed": 400,
+    "startCol": 5,
     "startRow": 14
   }
 }

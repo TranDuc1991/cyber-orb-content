@@ -1,7 +1,11 @@
 {
   "name": "Orbital Storm",
   "nodes": [
-    { "col": 1, "row": 2, "type": "basic" }
+    { "col": 1, "row": 2, "type": "basic" },
+    { "col": 2, "row": 1, "type": "basic" },
+    { "col": 3, "row": 2, "type": "basic" },
+    { "col": 4, "row": 5, "type": "basic" },
+    { "col": 9, "row": 10, "type": "basic" }
   ],
   "ball": {
     "speed": 250,

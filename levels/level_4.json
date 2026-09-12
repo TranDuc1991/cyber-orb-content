@@ -4,16 +4,7 @@
     { "col": 1, "row": 2, "type": "basic" },
     { "col": 2, "row": 1, "type": "basic" },
     { "col": 3, "row": 2, "type": "basic" },
-    { "col": 4, "row": 5, "type": "basic" },
-    { "col": 12, "row": 4, "type": "basic" },
-    { "col": 5, "row": 8, "type": "basic" },
-    { "col": 13, "row": 8, "type": "basic" },
-    { "col": 6, "row": 8, "type": "basic" },
-    { "col": 7, "row": 8, "type": "basic" },
-    { "col": 8, "row": 6, "type": "basic" },
-    { "col": 9, "row": 7, "type": "basic" },
-    { "col": 10, "row": 8, "type": "basic" },
-    { "col": 11, "row": 9, "type": "basic" }
+    { "col": 4, "row": 5, "type": "basic" }
   ],
   "ball": {
     "speed": 500,
